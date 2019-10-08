@@ -1,0 +1,19 @@
+D:\SIT_3KURS_6GRUPA\lab2\lab2\bin\Debug\lab2.exe.config
+D:\SIT_3KURS_6GRUPA\lab2\lab2\bin\Debug\lab2.exe
+D:\SIT_3KURS_6GRUPA\lab2\lab2\bin\Debug\lab2.pdb
+D:\SIT_3KURS_6GRUPA\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+D:\SIT_3KURS_6GRUPA\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\SIT_3KURS_6GRUPA\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\SIT_3KURS_6GRUPA\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+D:\SIT_3KURS_6GRUPA\lab2\lab2\obj\Debug\lab2.exe
+D:\SIT_3KURS_6GRUPA\lab2\lab2\obj\Debug\lab2.pdb
+D:\Projects - School\lab2\lab2\bin\Debug\lab2.exe.config
+D:\Projects - School\lab2\lab2\bin\Debug\lab2.exe
+D:\Projects - School\lab2\lab2\bin\Debug\lab2.pdb
+D:\Projects - School\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\Projects - School\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\Projects - School\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\Projects - School\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\Projects - School\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Projects - School\lab2\lab2\obj\Debug\lab2.exe
+D:\Projects - School\lab2\lab2\obj\Debug\lab2.pdb
